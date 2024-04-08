@@ -23,3 +23,7 @@ Aktuálně jsou všichni závodníci – čtyři koně a jeden jednorožec – n
 1. (Pro fanoušky JavaScriptu) Ať se každý závodník rozběhne po kliku na něj.
 
 ![náhled řešení](podklady/nahled-reseni.gif)
+
+## Řešení
+
+Náhled: https://czechitas-podklady.cz/Cviceni-Dostihy/
